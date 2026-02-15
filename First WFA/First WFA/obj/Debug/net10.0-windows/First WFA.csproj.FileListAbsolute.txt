@@ -1,0 +1,16 @@
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\bin\Debug\net10.0-windows\First WFA.exe
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\bin\Debug\net10.0-windows\First WFA.deps.json
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\bin\Debug\net10.0-windows\First WFA.runtimeconfig.json
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\bin\Debug\net10.0-windows\First WFA.dll
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\bin\Debug\net10.0-windows\First WFA.pdb
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First_WFA.Form1.resources
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.AssemblyInfo.cs
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.dll
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\refint\First WFA.dll
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.pdb
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\First WFA.genruntimeconfig.cache
+C:\Users\marco\source\repos\Windows Form Application\First WFA\First WFA\obj\Debug\net10.0-windows\ref\First WFA.dll

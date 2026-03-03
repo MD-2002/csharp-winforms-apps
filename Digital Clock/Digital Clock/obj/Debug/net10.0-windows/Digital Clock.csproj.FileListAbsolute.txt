@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\bin\Debug\net10.0-windows\Digital Clock.exe
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\bin\Debug\net10.0-windows\Digital Clock.deps.json
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\bin\Debug\net10.0-windows\Digital Clock.runtimeconfig.json
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\bin\Debug\net10.0-windows\Digital Clock.dll
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\bin\Debug\net10.0-windows\Digital Clock.pdb
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital_Clock.Form1.resources
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.AssemblyInfo.cs
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.dll
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\refint\Digital Clock.dll
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.pdb
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital Clock.genruntimeconfig.cache
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\ref\Digital Clock.dll
+C:\Users\marco\source\repos\Windows Form Application\Digital Clock\Digital Clock\obj\Debug\net10.0-windows\Digital_Clock.Properties.Resources.resources
